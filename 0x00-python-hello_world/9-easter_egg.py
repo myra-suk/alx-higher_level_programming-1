@@ -1,2 +1,2 @@
 #!usr/bin/python3
-import this
+python3 /usr/lib/python3.8/this.py 	
