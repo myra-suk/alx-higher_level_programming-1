@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 
 # Author: Brian Sakwa
+""" Define a class Rectangle"""
+
 
 class Rectangle:
-    """ Defines a rectangle"""
+    """Creates an empty class Square"""
     pass
