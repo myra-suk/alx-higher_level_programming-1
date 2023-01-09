@@ -22,9 +22,8 @@ In this Project I learnt and tested my understanding of Single and Multiple Inhe
 * What are, when and how to use isinstance, issubclass, type and super built-in functions
 ```
 
-Function Prototypes
+Function Prototypes:
 | File | Prototype |
-```
 |--- | --- |
 | `0-lookup.py` | `def lookup(obj)` |
 | `1-my_list.py` | `def print_sorted(self)` |
@@ -38,7 +37,7 @@ Function Prototypes
 | `9-rectangle.py` | `def __init__(self, width, height)` |
 | `10-square.py` | `def __init__(self, size)` |
 | `11-square.py` | `def __init__(self, size)` |
-```
+
 
 ## Tasks
 * **0. Lookup**
