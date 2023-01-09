@@ -2,6 +2,10 @@
 
 In this Project I learnt and tested my understanding of Single and Multiple Inheritance concept in Python OOP Programming
 
+## Tests:heavy_check_mark:
+
+* [tests](./tests): Test files for the project
+
 ## Learning Objectives
 ```
 * Why Python programming is awesome
@@ -21,6 +25,7 @@ In this Project I learnt and tested my understanding of Single and Multiple Inhe
 Function Prototypes
 | File | Prototype |
 ```
+|--- | --- |
 | `0-lookup.py` | `def lookup(obj)` |
 | `1-my_list.py` | `def print_sorted(self)` |
 | `2-is_same_class.py` | `def is_same_class(obj, a_class)` |
