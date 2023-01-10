@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 
 # Author: Brian Sakwa
 """ Defines a function that appends a string at the end ofa text file"""
