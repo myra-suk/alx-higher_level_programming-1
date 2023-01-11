@@ -2,7 +2,7 @@
 
 In this project I learnt and tested Input/Output Concepts in Python Programming
 
-## Tests:heavy_check_mark
+## Tests:heavy_check_mark:
 
 [tests](./tests): A set of tests that verified the code
 
