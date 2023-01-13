@@ -43,3 +43,28 @@ Function Prototypes:
 * **0. Lookup**
 	* [0-lookup.py](./0-lookup.py): Returns the list of attributes and mmethods of an object
 	* Returns  a list object
+* **1. My list**
+	* [1-my_list.py](./1-my_list.py): A class myList that inherits from a list
+	* Public instance method: def print_sorted(self): that prints the list, but sorted (ascending sort)
+* **2. Exact same object**
+	* [2-is_same_class.py](./2-is_same_class.py): Returns True if the object is exactly an instance of the specified class ; otherwise False.
+* **3. Same class or inherit from**
+	* [3-is_kind_of_class.py](./3-is_kind_of_class.py): Returns True if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise False
+* **4. Only sub class of**
+	* [4-inherits_from.py](./4-inherits_from.py): Returns True if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise False
+* **5. Geometry module**
+	* [5-base_geometry.py](./5-base_geometry.py): Creates an empty class BaseGeometry
+* **6. Improve Geometry**
+	* [6-base_geometry.py](./6-base_geometry.py): Write a class BaseGeometry (based on 5-base_geometry.py).
+* **7. Integer validator**
+	* [7-base_geometry.py](./7-base_geometry.py): Write a class BaseGeometry (based on 6-base_geometry.py).
+* **8. Rectangle**
+	* [8-rectangle.py](./8-rectangle.py): Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py)
+* **9. Full rectangle**
+	* [9-rectangle.py](./9-rectangle.py): Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py). (task based on 8-rectangle.py)
+* **10. Square #1**
+	* [10-square.py](./10-square.py): Write a class Square that inherits from Rectangle (9-rectangle.py):
+* **11. Square #2**
+	* [11-square.py](./11-square.py): Write a class Square that inherits from Rectangle (9-rectangle.py). (task based on 10-square.py).
+* **12. My integer**
+	* [100-my_int.py](./100-my_int.py): Write a class MyInt that inherits from int
