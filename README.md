@@ -1,1 +1,4 @@
-This directory introduces us to higher level programming
+All projects relating to ALX x Holberton Higher Level Programming are contained in this repository
+
+
+
