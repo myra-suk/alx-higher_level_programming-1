@@ -11,22 +11,21 @@ class Rectangle(Base):
     def __init__(self, width, height, x=0, y=0, id=None):
         """
         Defines attributes of a class Rectangle
-
         Args:
             width (int): The width of the rectangle
             height (int): The height of the rectangle
             x (int): The x coordinate of the rectangle
             y (int): The y coordinate of the rectangle
         """
-        self.__width = width
-        self.__height = height
-        self.__x = x
-        self.__y = y
+        self.width = width
+        self.height = height
+        self.x = x
+        self.y = y
         super().__init__(id)
 
     @property
     def width(self):
-        """Validate and set the width of the rectangle"""
+        """Validate and get the width of the Rectangle."""
         return self.__width
 
     @width.setter
@@ -39,7 +38,7 @@ class Rectangle(Base):
 
     @property
     def height(self):
-        """Validate and set the height of the rectangle"""
+        """Validate and get the height of the Rectangle."""
         return self.__height
 
     @height.setter
@@ -52,7 +51,7 @@ class Rectangle(Base):
 
     @property
     def x(self):
-        """Validate and set the x coordinate of the rectangle"""
+        """Validate and get the x coordinate of the Rectangle."""
         return self.__x
 
     @x.setter
@@ -65,7 +64,7 @@ class Rectangle(Base):
 
     @property
     def y(self):
-        """Validate and set the y coordinate of the rectangle"""
+        """Validate and get the y coordinate of the Rectangle."""
         return self.__y
 
     @y.setter
