@@ -90,3 +90,10 @@ class Rectangle(Base):
             [print("", end="") for x in range(self.x)]
             [print("#", end="") for w in range(self.width)]
             print("")
+
+    def __str__(self):
+        """Return the print and str representation of the triangle"""
+        str_rep = "[Rectangle] ({}) {}/{} - {}/{}".format(
+                str(self.id), str(self.x), str(self.y),
+                str(self.width), str(self.height))
+        return (str_rep)
