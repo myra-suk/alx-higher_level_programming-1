@@ -40,9 +40,8 @@ class Base:
             list_objs (list): A list of inherited base instances
         """
         if list_objs is None:
-            list_objs = []
+            list_objs = "[]"
         filename = cls.__name__ + ".json"
-        list_dictionaries = []
         for instance in list_objs:
             list_dictionaries.append(instance.to_dictionary())
         with open(filename, 'w') as f:
