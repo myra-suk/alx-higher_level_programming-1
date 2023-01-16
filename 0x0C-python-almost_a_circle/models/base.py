@@ -69,7 +69,6 @@ class Base:
     def load_from_file(cls):
         """ Returns the list of instances"""
         filename = str(cls.__name__) + ".json"
-        res = []
         try:
             with open(filename, 'r') as f:
                 list_dictionaries = Base.from_json_string(f.read())
