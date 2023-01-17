@@ -15,6 +15,9 @@ In this project I learnt about:
 * Serialization/ Deserialization
 * Java Script Object Notation
 
+## Tests:heavy_check_mark
+* This set of tests were used to validate the code [main-tests](./main-tests) 
+
 ## Learning Objectives
 ```
 * What is Unit testing and how to implement it in a large project
