@@ -31,7 +31,7 @@ In this project I learnt about:
 
 | Files | Prototypes |
 | --- | --- |
-| `base.py`| |
+| `base.py`| `def __init__(self, id=None):`|
 | `rectangle.py`| |
 | `square.py` | |
 | `test_base.py` | |
