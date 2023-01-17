@@ -31,6 +31,12 @@ In this project I learnt about:
 
 | Files | Prototypes |
 | --- | --- |
+| `base.py`| |
+| `rectangle.py`| |
+| `square.py` | |
+| `test_base.py` | |
+| `test_square.py` | |
+| `test_rectangle.py` | |
 
 ### Tasks
 * **1. Base class**
