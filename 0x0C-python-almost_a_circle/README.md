@@ -15,8 +15,9 @@ In this project I learnt about:
 * Serialization/ Deserialization
 * Java Script Object Notation
 
-## Tests:heavy_check_mark
+## Tests:heavy_check_mark:
 * This set of tests were used to validate the code [main-tests](./main-tests) 
+* Unittest folder: [./tests](./tests/test_models)
 
 ## Learning Objectives
 ```
