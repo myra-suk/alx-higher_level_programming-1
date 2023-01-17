@@ -30,7 +30,7 @@ In this project I learnt about:
 
 ### Tasks
 * **1. Base class**
-	* [base.py](./base.py): Write a first Class Base
+	* [base.py](./models/base.py): Write a first Class Base
 	```
 	Class Base:
 	* private class attribute __nb_objects = 0
@@ -38,6 +38,18 @@ In this project I learnt about:
         	* if id is not None, assign the public instance attribute id with this argument value - you can assume id is an integer and you don’t need to test the type of it
         	* otherwise, increment __nb_objects and assign the new value to the public instance attribute id
 	```
+* **2. First Rectangle**
+	* [rectangle.py](./models/rectangle.py): Write a class Rectangle that inherits from Base:
+	```
+	Class Rectangle:
+	1) Private instance attributes, each with its own public getter and setter:
+	* __width -> width
+	* __height -> height
+	* __x -> x
+	* __y -> y
+
+	2) Class constructor: def __init__(self, width, height, x=0, y=0, id=None):
+ 	```
 
 
 
