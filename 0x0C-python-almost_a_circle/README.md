@@ -60,6 +60,14 @@ In this project I learnt about:
 
 	2) Class constructor: def __init__(self, width, height, x=0, y=0, id=None):
  	```
-
+* **Rectangle.py**
+	* Write a class ``Rectangle`` that inherits from Base
+	* Update the Class ``Rectangle``by adding all setter methods and instantiation
+	* Update the class by adding the public method ``def area(self):`` that returns the area of the Rectangle instance
+	* Update the class Rectangle by adding the public method ``def display(self):`` that prints in stdout the Rectangle instance with the character # - you don’t need to handle x and y here.
+	* Update the class Rectangle by overriding the __str__ method so that it returns [Rectangle] (<id>) <x>/<y> - <width>/<height>
+	* Update the class Rectangle by improving the public method ``def display(self):`` to print in stdout the Rectangle instance with the character # by taking care of x and y
+	* Update the class Rectangle by adding the public method ``def update(self, *args):`` that assigns an argument to each attribute:
+	* Update the class Rectangle by updating the public method ``def update(self, *args):`` by changing the prototype to update ``(self, *args, **kwargs)`` that assigns a key/value argument to attributes:
 
 
