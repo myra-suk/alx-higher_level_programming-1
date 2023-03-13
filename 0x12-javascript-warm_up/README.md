@@ -1,4 +1,4 @@
-#JavaScript - Warm up
+# JavaScript - Warm up
 
 This directory introduces us to the amazing world of Javascript. Project tasks tested our level of understanding on the same
 
