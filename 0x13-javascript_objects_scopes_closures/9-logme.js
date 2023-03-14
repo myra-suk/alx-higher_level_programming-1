@@ -6,5 +6,5 @@ exports.logMe = function (item) {
   const myprint = argvalue + ': ' + item;
   console.log(myprint);
   argvalue += 1;
-}
+};
 let argvalue = 0;
