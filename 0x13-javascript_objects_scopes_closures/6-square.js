@@ -1,6 +1,6 @@
 #!/usr/bin/node
 /*
- * A square class that inherits from the class Rectangle
+ * A square class that inherits from a previous class Square
  */
 const prevsquare = require('./5-square');
 class Square extends prevsquare {
