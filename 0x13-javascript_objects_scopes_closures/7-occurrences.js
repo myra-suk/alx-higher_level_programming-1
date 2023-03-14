@@ -1,4 +1,4 @@
-#!/usr/node/bin
+#!/usr/bin/node
 /*
  * Returns the number of occurences in a list
  */
